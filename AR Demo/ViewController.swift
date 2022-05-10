@@ -1,7 +1,7 @@
 //
 //  ViewController.swift
 //  AR Demo
-//
+//  Default AR Demo
 //  Created by Andy Kwesi on 3/24/22.
 //
 
